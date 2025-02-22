@@ -33,10 +33,11 @@ https://xd.adobe.com/view/927b248d-f15a-400c-94e4-2f873af06d26-c728/?fullscreen&
 Segundo proyecto: Esta fue mi primera pagina wed, que hice en el curso de "Yo puedo programar" con junior achievement.
 https://miprimersitioweb.org.ar/proyectos/nube/galindo_maura/
 
-Proyecto 3: Este fue mi primer analisis de datos en excel en el curso "Procesamiento de datos en excel" de Coderhouse.
+Proyecto 3: Este fue mi primer proyecto de analisis de datos en excel en el curso "Procesamiento de datos en excel" de Coderhouse.
 https://wk.ar/sK9
 
-
+Proyecto 4: Este fue mi primer proyecto de analisis de datos en Power Bi.
+https://app.powerbi.com/links/858wfF43oU?ctid=6ea70511-36ea-4596-a53e-f839674e2702&pbi_source=linkShare
  
 <p align="center">
   <h1> 🤝🏻 &nbsp; Contactame:
