@@ -4,7 +4,7 @@
 
 
 
-🎓 &nbsp; Actualmente estoy estudiando Data Analytics en Coderhouse
+🎓 &nbsp; Actualmente trabajo como Analista de datos en Arbusta y estudio una Licenciatura en Analisis y gestion de datos.
 🌱 &nbsp; 
 
 
