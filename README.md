@@ -62,3 +62,30 @@
 <img alt="Cat Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx5ODhpdWtsZzM4NDN6dDh1aXZrYWcwMnd6ZWNjZ3R5eHlycDF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvlaXOfUxg9mPNGNBK/giphy.gif" width="300" align="center"/>
 
 <img alt="Cat Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNpcDFmZGhpamRibHdibHEwamt1NGFoMzA0N21idTJsYmlzbHFyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300" align="center"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
