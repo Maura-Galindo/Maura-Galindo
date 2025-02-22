@@ -57,9 +57,8 @@ https://wk.ar/sK9
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mauragalindo16&theme=aura-dark&hide_border=FALSO&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=491)](https://git.io/streak-stats)
 
-<br/>
-<br/>
-<br/>
+
+
 
 <img alt="Night Coding" src="[https://media.giphy.com/media/9LwSYQz5jGpOyYr163/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx5ODhpdWtsZzM4NDN6dDh1aXZrYWcwMnd6ZWNjZ3R5eHlycDF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvlaXOfUxg9mPNGNBK/giphy.gif)" width= 
 "300" align="right"/>
@@ -67,4 +66,10 @@ https://wk.ar/sK9
 
 <img alt="Night Coding" src="[https://media.giphy.com/media/9LwSYQz5jGpOyYr163/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNpcDFmZGhpamRibHdibHEwamt1NGFoMzA0N21idTJsYmlzbHFyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif)" width= 
 "300" align="right"/>
+
+
+<br/>
+<br/>
+<br/>
+
 
