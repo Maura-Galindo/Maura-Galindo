@@ -2,7 +2,7 @@
 
 <img src="">
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 🎓 &nbsp; Actualmente trabajo como Analista de datos en Arbusta y estudio una Licenciatura en Analisis y gestion de datos.
 🌱 &nbsp; 
@@ -41,7 +41,7 @@ https://wk.ar/sK9
 
  
 <p align="center">
-  <h1> 🤝🏻 &nbsp; Contactame
+  <h1> 🤝🏻 &nbsp; Contactame:
   </h1>  
 </p>
 
