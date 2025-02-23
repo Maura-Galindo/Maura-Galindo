@@ -78,16 +78,14 @@
 </p>
 
 
+
 ### GitHub Activity ✔:
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mauragalindo16&theme=aura-dark&hide_border=false&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=491)](https://git.io/streak-stats)
 
 <br/>
 <br/>
 <br/>
-
 
 
 
