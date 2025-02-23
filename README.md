@@ -28,10 +28,10 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">&nbsp;
   <img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator" alt="Illustrator">&nbsp;
 </p>
+
 <p align="left" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop" alt="Photoshop">&nbsp;
   <img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign" alt="InDesign">&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel">&nbsp;
   <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="Microsoft PowerPoint">&nbsp;
 </p>
@@ -47,6 +47,21 @@
 </p>
 
 <br clear="both"/>
+
+
+
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-D83B01?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B5797?style=flat&logo=microsoft-word&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat&logo=google-sheets&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+
+
 
 <h2>Mis proyectos</h2>
 
@@ -75,29 +90,13 @@
 
 ### GitHub Activity ✔:
 
-<a href="https://github.com/Mauragalindo16">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauragalindo16" />
-</a>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mauragalindo16&theme=aura-dark&hide_border=false&locale=es&date_format=j%2Fn%5B%2FY%5D&card_width=491)](https://git.io/streak-stats)
 
 <br/>
 <br/>
 <br/>
-
-<img alt="Cat Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx5ODhpdWtsZzM4NDN6dDh1aXZrYWcwMnd6ZWNjZ3R5eHlycDF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvlaXOfUxg9mPNGNBK/giphy.gif" width="300" align="center"/>
-
-<img alt="Cat Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNpcDFmZGhpamRibHdibHEwamt1NGFoMzA0N21idTJsYmlzbHFyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300" align="center"/>
-
-
-
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)
-![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
-
-
 
 
 
