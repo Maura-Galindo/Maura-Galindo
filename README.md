@@ -1,9 +1,14 @@
 
 
 <h1 align="center"><b>✨ Hola, soy Maura Galindo </b><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="40px"></h1>
+
+
+<br clear="both">
+
 <div align="center">
-  <img alt="Night Coding" src="https://media.giphy.com/media/9LwSYQz5jGpOyYr163/giphy.gif" width="300"/>
+  <img height="180" src="https://media.giphy.com/media/9LwSYQz5jGpOyYr163/giphy.gif"  />
 </div>
+
 
 <h2>🤝🏻 &nbsp; Sobre mí:</h2>
 <p align="left">
@@ -80,3 +85,33 @@
 <img alt="Cat Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx5ODhpdWtsZzM4NDN6dDh1aXZrYWcwMnd6ZWNjZ3R5eHlycDF4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LvlaXOfUxg9mPNGNBK/giphy.gif" width="300" align="center"/>
 
 <img alt="Cat Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGNpcDFmZGhpamRibHdibHEwamt1NGFoMzA0N21idTJsYmlzbHFyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300" align="center"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
