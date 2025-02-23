@@ -66,9 +66,12 @@
 <h2>🤝🏻 &nbsp; Contáctame:</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maura-galindo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mauralizeth1699@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/maura-galindo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"/></a>
+  <a href="mailto:mauralizeth1699@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+
+
 
 ### GitHub Activity ✔:
 
@@ -88,6 +91,11 @@
 
 
 
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power-BI&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=Microsoft-Excel&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
 
 
 
