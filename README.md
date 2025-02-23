@@ -1,8 +1,6 @@
 
 
 <h1 align="center"><b><img src="https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966 " width="40px"> Hola, soy Maura Galindo </b><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="40px"></h1>
-
-
 </h1>
 
 
@@ -87,6 +85,11 @@
 <br/>
 <br/>
 
+
+
+<div align="center">
+  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWgxYzlyZ3phbzIxbmhsNHliNDZxM3d5OTNlMDJpcmFobm9zZXVwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LBFPLXkgoVm80dx6sP/giphy.gif"  />
+</div>
 
 
 
