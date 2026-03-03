@@ -51,21 +51,6 @@
 <br clear="both"/>
 
 
-
-
-<h2>Mis proyectos</h2>
-
-<p align="left">
-  - **Primer proyecto**: Este fue el primer flujo de una aplicación que hice en el curso de "UX Design Fundamentals" en Coursera. <br>
-  [Ver Proyecto](https://xd.adobe.com/view/927b248d-f15a-400c-94e4-2f873af06d26-c728/?fullscreen&hints=off) <br>
-  - **Segundo proyecto**: Esta fue mi primera página web, que hice en el curso de "Yo puedo programar" con Junior Achievement. <br>
-  [Ver Proyecto](https://miprimersitioweb.org.ar/proyectos/nube/galindo_maura/) <br>
-  - **Proyecto 3**: Este fue mi primer análisis de datos en Excel en el curso "Procesamiento de datos en Excel" de Coderhouse. <br>
-  [Ver Proyecto](https://wk.ar/sK9) <br>
-  - **Proyecto 4**: Este fue mi primer proyecto de análisis de datos en Power BI. <br>
-  [Ver Proyecto](https://app.powerbi.com/links/858wfF43oU?ctid=6ea70511-36ea-4596-a53e-f839674e2702&pbi_source=linkShare) <br>
-</p>
-
 <br clear="both"/>
 
 <h2>🤝🏻 &nbsp; Contáctame:</h2>
